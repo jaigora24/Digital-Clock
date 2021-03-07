@@ -22,3 +22,4 @@ function updateTime() {
 	}
 }
 setInterval("updateTime()", 100);
+
